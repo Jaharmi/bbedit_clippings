@@ -1,0 +1,7 @@
+syntax: glob
+C Source.cp
+HTML Glossary.html
+PropertyList Glossary.plist
+RSS.rss
+Universal Items
+WML Glossary.wml
