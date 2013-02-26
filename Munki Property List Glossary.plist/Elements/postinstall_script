@@ -1,0 +1,5 @@
+#indent#<key>postinstall_script</key>
+<string>#SELSTART##!/usr/bin/python
+#SELEND#
+</string>
+#insertion#
