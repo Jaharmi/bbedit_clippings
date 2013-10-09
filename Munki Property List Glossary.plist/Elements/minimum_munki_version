@@ -1,0 +1,2 @@
+#indent#<key>minimum_munki_version</key>
+<string>#SELSTART##SYSTEM /usr/local/munki/makepkginfo --version##SELEND#</string>
