@@ -1,0 +1,5 @@
+#indent#<key>installer_environment</key>
+<dict>
+	<key>#SELSTART#VARIABLE#SELEND#</key>
+	<string>#SELSTART#value#SELEND#</string>
+</dict>
