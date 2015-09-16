@@ -1,0 +1,11 @@
+#indent#<key>preinstall_alert</key> 
+<dict>
+    <key>alert_title</key>
+    <string>#SELSTART#Attention#SELEND#</string>
+    <key>alert_detail</key>
+    <string>#SELSTART#This is an alert that you should cancel, even if the button label is "OK."#SELEND#</string>
+    <key>ok_label</key>
+    <string></string>
+    <key>cancel_label</key>
+    <string>#SELSTART#OK#SELEND#</string>
+</dict>

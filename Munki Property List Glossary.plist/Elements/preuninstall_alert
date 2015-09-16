@@ -1,0 +1,11 @@
+#indent#<key>preuninstall_alert</key> 
+<dict>
+    <key>alert_title</key>
+    <string>#SELSTART#Attention#SELEND#</string>
+    <key>alert_detail</key>
+    <string>#SELSTART#Some conditions apply to this software. Please contact your administrator for more details.#SELEND#</string>
+    <key>ok_label</key>
+    <string>#SELSTART#OK#SELEND#</string>
+    <key>cancel_label</key>
+    <string>#SELSTART#Cancel#SELEND#</string>
+</dict>
